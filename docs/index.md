@@ -170,6 +170,19 @@ As you have probably gathered, there are probably more puzzles hidden here. Ther
 
 I am also a part of the Corridor Crunch discord, where we made a crowdsourcing engine for the Corridors of Time puzzle. We want to do the same for this ARG, and to gather puzzle enthusiasts on [our Discord channel](https://discord.gg/W9Uwgqv). If you are interested in helping with the crowdsourcing, development or puzzling, join us!
 
+## The Dots and Symbols Puzzle
+Scattered across the pages of the log book are many instances of superimposed symbols and diagrams - many of these merge into other puzzles (Dot letter, Graph, others), and these details have even been present on previous collectors edition items, dating back even to Caydes journal in The Taken King. These same symbols were also recently found within the game, [on a wall in the strike, Savathuns Song.](https://www.reddit.com/r/raidsecrets/comments/jh8oiv/in_response_to_the_post_with_the_dot_patterns_in/)
+
+Efforts have now been made by a number of people on reddit to both align and layer these pages, and extract and isolate just the symbols and to test different alignments. 
+
+[Reddit thread by user Panda_hat can be found here:](https://www.reddit.com/r/raidsecrets/comments/jhalk0/red_dot_pattern_extracted_and_aligned/)
+
+In extracting these diagrams, each page was found to align forming a single larger image. Whether there are multiple permutations or arrangements of this is at present unclear. There has been some talk of 3d permutations but this may just be unrealistic. There has been some talk of the fact the image seems mirrored in various ways, this is covered with examples in the above thread.
+
+Work was then done to compare the consolidated image to the matching diagrams found within Caydes Journal and the Savathuns Song strike - both were identical.
+
+At present it is unclear where these images might lead, and it is very possible it may just be decoration and detailing.
+
 ## The Dead Ends
 We've looked so diligently we even found mysteries where there were none. I list them here.
 
